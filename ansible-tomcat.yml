@@ -15,7 +15,7 @@
       url: http://34.212.238.223:8081/artifactory/libs-snapshot-local/webapp-47.war
       dest: /home/ubuntu/sourcefile/webapp.war
       username: ranjithac
-      password:charu@143
+      password: charu@143
 
   - name: create directory with a date in name
     file: 
